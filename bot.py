@@ -13,6 +13,5 @@ async def on_ready():
 @bot.command()
 async def link(ctx):
     await ctx.send("https://clubeminecraft.com.br/")
-    
-    
+
 bot.run('NTIzNDU0ODkwMDE4NzM0MTAy.DvZw8g.iAYuYNTDM2XP2n3S2THt8RV3fUw')
